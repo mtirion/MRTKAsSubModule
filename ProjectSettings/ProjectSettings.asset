@@ -553,7 +553,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: MRTKAsSubModule
   metroPackageVersion: 
-  metroCertificatePath: C:\Git\MRTKAsSubModule\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany

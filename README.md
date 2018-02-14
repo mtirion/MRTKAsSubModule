@@ -1,21 +1,5 @@
 # MRTKAsSubModule
-Sample repository how to setup a Unity project using MRTK as a sub module.
-
-## Create a Unity project and put it in github ##
-	1. Create a repository in github for [PROJECTNAME]
-       Select .gitignore for Unity
-       Add readme
-	2. Git clone [PROJECTNAME] on your local machine
-	3. Rename [PROJECTNAME] to [PROJECTNAME]-GIT
-	4. Create the Unity project with name [PROJECTNAME] and save
-	5. Copy the contents of [PROJECTNAME] to the [PROJECTNAME]-GIT folder
-	6. Delete [PROJECTNAME] folder
-	7. Rename [PROJECTNAME]-GIT to [PROJECTNAME]
-    8. Publish to git
-
-       git add .
-       git commit -m "[comment]"
-       git push
+Sample repository how to setup a Unity project using MRTK as a sub module. I started with a new Unity project with just a Cube in it.
 
 ## To add a link to MRTK ##
 	1. In the root directory of [PROJECTNAME] clone MRTK as submodule:
